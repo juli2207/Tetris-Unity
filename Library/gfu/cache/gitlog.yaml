@@ -1,0 +1,1004 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2020-02-27T16:18:17.417+01:00
+  initializedAtString: 2020-02-27T16:14:59.830+01:00
+  log:
+  - commitID: 1181a2ff65dff524a5c97483cde3a01c714162ef
+    mergeA: 
+    mergeB: 
+    authorName: Julian Gerhardt
+    authorEmail: julian.gerhardt@online.de
+    commitEmail: julian.gerhardt@online.de
+    commitName: Julian Gerhardt
+    summary: Initial Commit
+    description: 
+    timeString: 2020-02-26T20:22:22.000+01:00
+    commitTimeString: 2020-02-26T20:22:22.000+01:00
+    changes:
+    - path: Assets\AssetStoreTools.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\AssetStoreTools.meta
+      projectPath: Assets\AssetStoreTools.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\AssetStoreTools\AS_Checklist.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\AssetStoreTools\AS_Checklist.asset
+      projectPath: Assets\AssetStoreTools\AS_Checklist.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\AssetStoreTools\AS_Checklist.asset.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\AssetStoreTools\AS_Checklist.asset.meta
+      projectPath: Assets\AssetStoreTools\AS_Checklist.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\AssetStoreTools\Editor.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\AssetStoreTools\Editor.meta
+      projectPath: Assets\AssetStoreTools\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\AssetStoreTools\Editor\AssetStoreTools.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\AssetStoreTools\Editor\AssetStoreTools.dll
+      projectPath: Assets\AssetStoreTools\Editor\AssetStoreTools.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\AssetStoreTools\Editor\AssetStoreTools.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\AssetStoreTools\Editor\AssetStoreTools.dll.meta
+      projectPath: Assets\AssetStoreTools\Editor\AssetStoreTools.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets.meta
+      projectPath: Assets\Game Assets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\BGM.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\BGM.meta
+      projectPath: Assets\Game Assets\BGM.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\BGM\theme-a.mp3
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\BGM\theme-a.mp3
+      projectPath: Assets\Game Assets\BGM\theme-a.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\BGM\theme-a.mp3.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\BGM\theme-a.mp3.meta
+      projectPath: Assets\Game Assets\BGM\theme-a.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\BGM\theme-b.mp3
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\BGM\theme-b.mp3
+      projectPath: Assets\Game Assets\BGM\theme-b.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\BGM\theme-b.mp3.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\BGM\theme-b.mp3.meta
+      projectPath: Assets\Game Assets\BGM\theme-b.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\BGM\theme-c.mp3
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\BGM\theme-c.mp3
+      projectPath: Assets\Game Assets\BGM\theme-c.mp3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\BGM\theme-c.mp3.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\BGM\theme-c.mp3.meta
+      projectPath: Assets\Game Assets\BGM\theme-c.mp3.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Fonts.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Fonts.meta
+      projectPath: Assets\Game Assets\Fonts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Fonts\Pixel LCD-7.ttf
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Fonts\Pixel
+        LCD-7.ttf
+      projectPath: Assets\Game Assets\Fonts\Pixel LCD-7.ttf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Fonts\Pixel LCD-7.ttf.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Fonts\Pixel
+        LCD-7.ttf.meta
+      projectPath: Assets\Game Assets\Fonts\Pixel LCD-7.ttf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs.meta
+      projectPath: Assets\Game Assets\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\GroupI.prefab
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\GroupI.prefab
+      projectPath: Assets\Game Assets\Prefabs\GroupI.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\GroupI.prefab.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\GroupI.prefab.meta
+      projectPath: Assets\Game Assets\Prefabs\GroupI.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\GroupJ.prefab
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\GroupJ.prefab
+      projectPath: Assets\Game Assets\Prefabs\GroupJ.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\GroupJ.prefab.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\GroupJ.prefab.meta
+      projectPath: Assets\Game Assets\Prefabs\GroupJ.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\GroupL.prefab
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\GroupL.prefab
+      projectPath: Assets\Game Assets\Prefabs\GroupL.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\GroupL.prefab.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\GroupL.prefab.meta
+      projectPath: Assets\Game Assets\Prefabs\GroupL.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\GroupO.prefab
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\GroupO.prefab
+      projectPath: Assets\Game Assets\Prefabs\GroupO.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\GroupO.prefab.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\GroupO.prefab.meta
+      projectPath: Assets\Game Assets\Prefabs\GroupO.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\GroupS.prefab
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\GroupS.prefab
+      projectPath: Assets\Game Assets\Prefabs\GroupS.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\GroupS.prefab.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\GroupS.prefab.meta
+      projectPath: Assets\Game Assets\Prefabs\GroupS.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\GroupT.prefab
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\GroupT.prefab
+      projectPath: Assets\Game Assets\Prefabs\GroupT.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\GroupT.prefab.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\GroupT.prefab.meta
+      projectPath: Assets\Game Assets\Prefabs\GroupT.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\GroupZ.prefab
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\GroupZ.prefab
+      projectPath: Assets\Game Assets\Prefabs\GroupZ.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\GroupZ.prefab.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\GroupZ.prefab.meta
+      projectPath: Assets\Game Assets\Prefabs\GroupZ.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\nextSpawner.prefab
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\nextSpawner.prefab
+      projectPath: Assets\Game Assets\Prefabs\nextSpawner.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Prefabs\nextSpawner.prefab.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Prefabs\nextSpawner.prefab.meta
+      projectPath: Assets\Game Assets\Prefabs\nextSpawner.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scenes.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scenes.meta
+      projectPath: Assets\Game Assets\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scenes\Game.unity
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scenes\Game.unity
+      projectPath: Assets\Game Assets\Scenes\Game.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scenes\Game.unity.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scenes\Game.unity.meta
+      projectPath: Assets\Game Assets\Scenes\Game.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scenes\MainMenu.unity
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scenes\MainMenu.unity
+      projectPath: Assets\Game Assets\Scenes\MainMenu.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scenes\MainMenu.unity.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scenes\MainMenu.unity.meta
+      projectPath: Assets\Game Assets\Scenes\MainMenu.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts.meta
+      projectPath: Assets\Game Assets\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\Grid.cs
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\Grid.cs
+      projectPath: Assets\Game Assets\Scripts\Grid.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\Grid.cs.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\Grid.cs.meta
+      projectPath: Assets\Game Assets\Scripts\Grid.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\Group.cs
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\Group.cs
+      projectPath: Assets\Game Assets\Scripts\Group.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\Group.cs.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\Group.cs.meta
+      projectPath: Assets\Game Assets\Scripts\Group.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\Highscore.cs
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\Highscore.cs
+      projectPath: Assets\Game Assets\Scripts\Highscore.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\Highscore.cs.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\Highscore.cs.meta
+      projectPath: Assets\Game Assets\Scripts\Highscore.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\LevelManager.cs
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\LevelManager.cs
+      projectPath: Assets\Game Assets\Scripts\LevelManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\LevelManager.cs.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\LevelManager.cs.meta
+      projectPath: Assets\Game Assets\Scripts\LevelManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\MainMenu.cs
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\MainMenu.cs
+      projectPath: Assets\Game Assets\Scripts\MainMenu.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\MainMenu.cs.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\MainMenu.cs.meta
+      projectPath: Assets\Game Assets\Scripts\MainMenu.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\Music.cs
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\Music.cs
+      projectPath: Assets\Game Assets\Scripts\Music.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\Music.cs.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\Music.cs.meta
+      projectPath: Assets\Game Assets\Scripts\Music.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\NextSpawner.cs
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\NextSpawner.cs
+      projectPath: Assets\Game Assets\Scripts\NextSpawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\NextSpawner.cs.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\NextSpawner.cs.meta
+      projectPath: Assets\Game Assets\Scripts\NextSpawner.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\ScoreManager.cs
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\ScoreManager.cs
+      projectPath: Assets\Game Assets\Scripts\ScoreManager.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\ScoreManager.cs.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\ScoreManager.cs.meta
+      projectPath: Assets\Game Assets\Scripts\ScoreManager.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\Spawner.cs
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\Spawner.cs
+      projectPath: Assets\Game Assets\Scripts\Spawner.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\Spawner.cs.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\Spawner.cs.meta
+      projectPath: Assets\Game Assets\Scripts\Spawner.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\UIController.cs
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\UIController.cs
+      projectPath: Assets\Game Assets\Scripts\UIController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\UIController.cs.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\UIController.cs.meta
+      projectPath: Assets\Game Assets\Scripts\UIController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\Utils.cs
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\Utils.cs
+      projectPath: Assets\Game Assets\Scripts\Utils.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Scripts\Utils.cs.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Scripts\Utils.cs.meta
+      projectPath: Assets\Game Assets\Scripts\Utils.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Sprites.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Sprites.meta
+      projectPath: Assets\Game Assets\Sprites.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Sprites\block.png
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Sprites\block.png
+      projectPath: Assets\Game Assets\Sprites\block.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Sprites\block.png.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Sprites\block.png.meta
+      projectPath: Assets\Game Assets\Sprites\block.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Sprites\border.png
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Sprites\border.png
+      projectPath: Assets\Game Assets\Sprites\border.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Game Assets\Sprites\border.png.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Game Assets\Sprites\border.png.meta
+      projectPath: Assets\Game Assets\Sprites\border.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\LSSymbol.png
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\LSSymbol.png
+      projectPath: Assets\LSSymbol.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\LSSymbol.png.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\LSSymbol.png.meta
+      projectPath: Assets\LSSymbol.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: LICENSE.md
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\LICENSE.md
+      projectPath: LICENSE.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: LSSymbol.png
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\LSSymbol.png
+      projectPath: LSSymbol.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: NOTES.org
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\NOTES.org
+      projectPath: NOTES.org
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Packages\manifest.json
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\AudioManager.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ClusterInputManager.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\DynamicsManager.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorBuildSettings.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\EditorSettings.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\GraphicsSettings.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\InputManager.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\NetworkManager.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.org
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\README.org
+      projectPath: README.org
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Tetris.gif
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Tetris.gif
+      projectPath: Tetris.gif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: WEBGL\TemplateData\UnityProgress.js
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\WEBGL\TemplateData\UnityProgress.js
+      projectPath: WEBGL\TemplateData\UnityProgress.js
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: WEBGL\TemplateData\favicon.ico
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\WEBGL\TemplateData\favicon.ico
+      projectPath: WEBGL\TemplateData\favicon.ico
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: WEBGL\TemplateData\fullscreen.png
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\WEBGL\TemplateData\fullscreen.png
+      projectPath: WEBGL\TemplateData\fullscreen.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: WEBGL\TemplateData\progressEmpty.Dark.png
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\WEBGL\TemplateData\progressEmpty.Dark.png
+      projectPath: WEBGL\TemplateData\progressEmpty.Dark.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: WEBGL\TemplateData\progressEmpty.Light.png
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\WEBGL\TemplateData\progressEmpty.Light.png
+      projectPath: WEBGL\TemplateData\progressEmpty.Light.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: WEBGL\TemplateData\progressFull.Dark.png
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\WEBGL\TemplateData\progressFull.Dark.png
+      projectPath: WEBGL\TemplateData\progressFull.Dark.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: WEBGL\TemplateData\progressFull.Light.png
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\WEBGL\TemplateData\progressFull.Light.png
+      projectPath: WEBGL\TemplateData\progressFull.Light.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: WEBGL\TemplateData\progressLogo.Dark.png
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\WEBGL\TemplateData\progressLogo.Dark.png
+      projectPath: WEBGL\TemplateData\progressLogo.Dark.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: WEBGL\TemplateData\progressLogo.Light.png
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\WEBGL\TemplateData\progressLogo.Light.png
+      projectPath: WEBGL\TemplateData\progressLogo.Light.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: WEBGL\TemplateData\style.css
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\WEBGL\TemplateData\style.css
+      projectPath: WEBGL\TemplateData\style.css
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: WEBGL\TemplateData\webgl-logo.png
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\WEBGL\TemplateData\webgl-logo.png
+      projectPath: WEBGL\TemplateData\webgl-logo.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: WEBGL\WEBGL.zip
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\WEBGL\WEBGL.zip
+      projectPath: WEBGL\WEBGL.zip
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: WEBGL\index.html
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\WEBGL\index.html
+      projectPath: WEBGL\index.html
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 931af3e888820edacec5d1ed82bfffec7608e8c4
+    mergeA: 
+    mergeB: 
+    authorName: Julian Gerhardt
+    authorEmail: julian.gerhardt@online.de
+    commitEmail: julian.gerhardt@online.de
+    commitName: Julian Gerhardt
+    summary: Initial commit
+    description: 
+    timeString: 2020-02-26T20:19:41.000+01:00
+    commitTimeString: 2020-02-26T20:19:41.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\.gitignore
+      fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Assets\.gitignore
+      projectPath: Assets\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
