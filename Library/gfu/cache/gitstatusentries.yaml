@@ -13,6 +13,834 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-02-27T17:59:45.815+01:00
-  initializedAtString: 2020-02-27T17:59:13.000+01:00
-  entries: []
+  lastUpdatedAtString: 2020-02-27T19:27:25.641+01:00
+  initializedAtString: 2020-02-27T18:35:23.995+01:00
+  entries:
+  - path: Library\assetDatabase3
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout.dwlt
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorUserSettings.asset
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\EditorUserSettings.asset
+    projectPath: Library\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\LastBuild.buildreport
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\0c\0cdf8b2e127284449995b1b66fe998f2.resource
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\metadata\0c\0cdf8b2e127284449995b1b66fe998f2.resource
+    projectPath: Library\metadata\0c\0cdf8b2e127284449995b1b66fe998f2.resource
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    projectPath: Library\metadata\4c\4c433abcdb28444ebb7bd395ba5c76fc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    projectPath: Library\metadata\4d\4dfd3f5da88944ec6ac5977d676c30c6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\a1\a18059216522d3641a5ab8a8e177e078.resource
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\metadata\a1\a18059216522d3641a5ab8a8e177e078.resource
+    projectPath: Library\metadata\a1\a18059216522d3641a5ab8a8e177e078.resource
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    projectPath: Library\metadata\ac\acc34040a66fe4170bc8885268860cfe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c3\c345cf51b6616d84781f46904e4d6491.resource
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\metadata\c3\c345cf51b6616d84781f46904e4d6491.resource
+    projectPath: Library\metadata\c3\c345cf51b6616d84781f46904e4d6491.resource
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    projectPath: Library\metadata\f8\f8eca3a711f4842eba0c52ea9885ef7f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\boot.config
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\boot.config
+    projectPath: Library\PlayerDataCache\Win64\Data\boot.config
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets.resS
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets.resS
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\PlayerDataCache\Win64\Data\level0
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\level0
+    projectPath: Library\PlayerDataCache\Win64\Data\level0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\level1
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\level1
+    projectPath: Library\PlayerDataCache\Win64\Data\level1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\Mono.Security.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\Mono.Security.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Mono.Security.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\mscorlib.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\mscorlib.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\mscorlib.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\System.Core.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\System.Core.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.Core.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\System.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\System.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\System.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AccessibilityModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AIModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AnimationModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ARModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AssetBundleModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.AudioModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.BaselibModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClothModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterInputModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ClusterRendererModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CrashReportingModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.DirectorModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.FileSystemHttpModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GameCenterModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.GridModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.HotReloadModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ImageConversionModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.IMGUIModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.InputModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.JSONSerializeModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.LocalizationModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Networking.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Networking.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Networking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ParticleSystemModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PerformanceReportingModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Physics2DModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ProfilerModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.ScreenCaptureModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SharedInternalsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteMaskModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpriteShapeModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StreamingModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.StyleSheetsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SubstanceModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TerrainPhysicsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextCoreModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TextRenderingModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TilemapModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Timeline.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Timeline.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TimelineModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.TLSModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIElementsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UIModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UmbraModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UNETModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityAnalyticsModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityConnectModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityTestProtocolModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAssetBundleModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestAudioModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestTextureModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UnityWebRequestWWWModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VehiclesModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VFXModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VideoModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.VRModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.WindModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.dll
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.XRModule.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\0\02a749bb251b519f7bc26ca7cc061637.bin
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\ShaderCache\0\02a749bb251b519f7bc26ca7cc061637.bin
+    projectPath: Library\ShaderCache\0\02a749bb251b519f7bc26ca7cc061637.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\044b85ead3aa75f8b19b137775737080.bin
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\ShaderCache\0\044b85ead3aa75f8b19b137775737080.bin
+    projectPath: Library\ShaderCache\0\044b85ead3aa75f8b19b137775737080.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1e81a6422d19814723dda17e4290107c.bin
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\ShaderCache\1\1e81a6422d19814723dda17e4290107c.bin
+    projectPath: Library\ShaderCache\1\1e81a6422d19814723dda17e4290107c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5c746bb18660e0e0f8bd9561814498ce.bin
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\ShaderCache\5\5c746bb18660e0e0f8bd9561814498ce.bin
+    projectPath: Library\ShaderCache\5\5c746bb18660e0e0f8bd9561814498ce.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6e811b1c49aa4830c49ccc772075ff64.bin
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\ShaderCache\6\6e811b1c49aa4830c49ccc772075ff64.bin
+    projectPath: Library\ShaderCache\6\6e811b1c49aa4830c49ccc772075ff64.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6ef4d2b24cfc61e377faa0c2b1b02c89.bin
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\ShaderCache\6\6ef4d2b24cfc61e377faa0c2b1b02c89.bin
+    projectPath: Library\ShaderCache\6\6ef4d2b24cfc61e377faa0c2b1b02c89.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\88ff9133f9975b580362c65dfdacb462.bin
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\ShaderCache\8\88ff9133f9975b580362c65dfdacb462.bin
+    projectPath: Library\ShaderCache\8\88ff9133f9975b580362c65dfdacb462.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\91f60f5693875ff0b4a2f2e2cba962b0.bin
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\ShaderCache\9\91f60f5693875ff0b4a2f2e2cba962b0.bin
+    projectPath: Library\ShaderCache\9\91f60f5693875ff0b4a2f2e2cba962b0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9cb65f28fa98803d9bd7faba8b01f2ae.bin
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\ShaderCache\9\9cb65f28fa98803d9bd7faba8b01f2ae.bin
+    projectPath: Library\ShaderCache\9\9cb65f28fa98803d9bd7faba8b01f2ae.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a00c6961393cf8f953ac98967c1dc2ad.bin
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\ShaderCache\a\a00c6961393cf8f953ac98967c1dc2ad.bin
+    projectPath: Library\ShaderCache\a\a00c6961393cf8f953ac98967c1dc2ad.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\bb5bf7acc77e90b2c34ed7bd4b2eeb92.bin
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\ShaderCache\b\bb5bf7acc77e90b2c34ed7bd4b2eeb92.bin
+    projectPath: Library\ShaderCache\b\bb5bf7acc77e90b2c34ed7bd4b2eeb92.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\db80c93e7e10197cdaf841e750f4dae1.bin
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\ShaderCache\d\db80c93e7e10197cdaf841e750f4dae1.bin
+    projectPath: Library\ShaderCache\d\db80c93e7e10197cdaf841e750f4dae1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\dff9aca7e42f8abd0b3ed146c6d9af95.bin
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\ShaderCache\d\dff9aca7e42f8abd0b3ed146c6d9af95.bin
+    projectPath: Library\ShaderCache\d\dff9aca7e42f8abd0b3ed146c6d9af95.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\eb11b88a53161f2b2a97d2c4e5dba7e4.bin
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\ShaderCache\e\eb11b88a53161f2b2a97d2c4e5dba7e4.bin
+    projectPath: Library\ShaderCache\e\eb11b88a53161f2b2a97d2c4e5dba7e4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-0d86654ac1a852343ab4253907875225
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-0d86654ac1a852343ab4253907875225
+    projectPath: Temp\UnityTempFile-0d86654ac1a852343ab4253907875225
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-148818253d96f71448d3b6e491293c75
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-148818253d96f71448d3b6e491293c75
+    projectPath: Temp\UnityTempFile-148818253d96f71448d3b6e491293c75
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-16cca9263711a9c4f91df337773d2b59
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-16cca9263711a9c4f91df337773d2b59
+    projectPath: Temp\UnityTempFile-16cca9263711a9c4f91df337773d2b59
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-1b4fe1e02e125664bb1dd14985bff14d
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-1b4fe1e02e125664bb1dd14985bff14d
+    projectPath: Temp\UnityTempFile-1b4fe1e02e125664bb1dd14985bff14d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-382a3bfd2f0548145942ac6b871792a1
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-382a3bfd2f0548145942ac6b871792a1
+    projectPath: Temp\UnityTempFile-382a3bfd2f0548145942ac6b871792a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4a71ce77c41333b4c84c640cb9bff8f6
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-4a71ce77c41333b4c84c640cb9bff8f6
+    projectPath: Temp\UnityTempFile-4a71ce77c41333b4c84c640cb9bff8f6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-4e4eaafa811729b44ad42f344b917803
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-4e4eaafa811729b44ad42f344b917803
+    projectPath: Temp\UnityTempFile-4e4eaafa811729b44ad42f344b917803
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-668688c6c2a3ef744b65c3a173d6c647
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-668688c6c2a3ef744b65c3a173d6c647
+    projectPath: Temp\UnityTempFile-668688c6c2a3ef744b65c3a173d6c647
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-688b6949dd9eadd4fb0277f37ce4e287
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-688b6949dd9eadd4fb0277f37ce4e287
+    projectPath: Temp\UnityTempFile-688b6949dd9eadd4fb0277f37ce4e287
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6b98483427020e34d9813257b26942cd
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-6b98483427020e34d9813257b26942cd
+    projectPath: Temp\UnityTempFile-6b98483427020e34d9813257b26942cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-6c9e3f832e21a874195943123f31dbde
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-6c9e3f832e21a874195943123f31dbde
+    projectPath: Temp\UnityTempFile-6c9e3f832e21a874195943123f31dbde
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-83f8e762b935bc04e8e68ce554577e25
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-83f8e762b935bc04e8e68ce554577e25
+    projectPath: Temp\UnityTempFile-83f8e762b935bc04e8e68ce554577e25
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-976680102476d9548aab7938509e3f78
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-976680102476d9548aab7938509e3f78
+    projectPath: Temp\UnityTempFile-976680102476d9548aab7938509e3f78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-a5af94c20af9ae34ba1f44e4f1633a18
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-a5af94c20af9ae34ba1f44e4f1633a18
+    projectPath: Temp\UnityTempFile-a5af94c20af9ae34ba1f44e4f1633a18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bb7fb9083cd6a7846bbb11c0b894b1d6
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-bb7fb9083cd6a7846bbb11c0b894b1d6
+    projectPath: Temp\UnityTempFile-bb7fb9083cd6a7846bbb11c0b894b1d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-bd724150db432a046a227c5439fd972c
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-bd724150db432a046a227c5439fd972c
+    projectPath: Temp\UnityTempFile-bd724150db432a046a227c5439fd972c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-cd285a44624dd88489ce9eb530265194
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-cd285a44624dd88489ce9eb530265194
+    projectPath: Temp\UnityTempFile-cd285a44624dd88489ce9eb530265194
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-d05a0897608aa3f43bdae4279a0c83c6
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-d05a0897608aa3f43bdae4279a0c83c6
+    projectPath: Temp\UnityTempFile-d05a0897608aa3f43bdae4279a0c83c6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e2dfe47c3faaa3e48a35d28bb1905a95
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-e2dfe47c3faaa3e48a35d28bb1905a95
+    projectPath: Temp\UnityTempFile-e2dfe47c3faaa3e48a35d28bb1905a95
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-e67e02917a39d3e47b9d7b317322a982
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-e67e02917a39d3e47b9d7b317322a982
+    projectPath: Temp\UnityTempFile-e67e02917a39d3e47b9d7b317322a982
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityTempFile-ec8492eaf2ab80b489833fc1139434a4
+    fullPath: E:\Unity\Projekte\Puzzle\tetris-master\Temp\UnityTempFile-ec8492eaf2ab80b489833fc1139434a4
+    projectPath: Temp\UnityTempFile-ec8492eaf2ab80b489833fc1139434a4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
